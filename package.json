@@ -1,8 +1,14 @@
 {
-  "name": "robot-controller",
+  "n§me": "robot-controller",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Pontus Espe",
+    "email": "hello@pontusespe.se",
+    "url": "https://pontusespe.se"
+  },
   "dependencies": {
+    "@react-spring/three": "^9.7.4",
     "@react-three/drei": "^9.112.0",
     "@react-three/fiber": "^8.17.7",
     "@testing-library/jest-dom": "^5.17.0",
