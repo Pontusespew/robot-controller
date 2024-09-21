@@ -80,7 +80,7 @@ const result = moveForward(position, room);  // Expected result: { x: 2, y: 1, d
 
 ## Testing
 
-This project uses **Jest** as the testing framework. The test cases are written in TypeScript and located in the `src/__tests__/robotUtils.test.ts` file. 
+This project uses **Jest** as the testing framework. The test cases are written in TypeScript and located in the `src/tests/robotUtils.test.ts` file. 
 
 ### Running the Tests
 
@@ -116,7 +116,7 @@ Test scenarios are implemented for each function, covering normal, boundary, and
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-repo/robot-navigation.git
+git clone https://github.com/Pontusespew/robot-navigation.git
 cd robot-navigation
 ```
 
